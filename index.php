@@ -4,7 +4,7 @@
   */
 
 //define your token
-define("TOKEN", "weixin");
+define("TOKEN", "iceknight");
 $wechatObj = new wechatCallbackapiTest();
 $wechatObj->valid();
 
